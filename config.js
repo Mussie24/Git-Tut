@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('Version 2 pashed')
+console.log('Version 1')
